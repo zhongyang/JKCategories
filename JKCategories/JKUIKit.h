@@ -73,7 +73,6 @@
 #import "UINavigationController+JKTransitions.h"
 #import "UINavigationItem+JKLoading.h"
 #import "UINavigationItem+JKLock.h"
-#import "UINavigationItem+JKMargin.h"
 #import "UIPopoverController+iPhone.h"
 #import "UIResponder+JKChain.h"
 #import "UIResponder+JKFirstResponder.h"
